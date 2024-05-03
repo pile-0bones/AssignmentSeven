@@ -1,0 +1,1 @@
+Welcome! This is a repository built to learn the Git Work flow system in GitHub, for Fundamentals of UNIX and C Programming, Spring 2024. I am Tristan Collins, and this is the first file of the repository.
