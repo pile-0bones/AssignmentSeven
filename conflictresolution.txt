@@ -1,0 +1,3 @@
+This is the file where we will add two new features:
+ - UserOne's feature
+ - UserTwo's feature
